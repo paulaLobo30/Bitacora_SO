@@ -5,3 +5,6 @@ Bitácora de Comandos para SO
 | `ls`  | Da la información de los archivos | `ls -l` va a mostras los archivos en lista |
 | `nano` | Creación de archivos | `nano archivo.txt` va crear un archivo de texto con ese nombre |
 | `cat` | Visualización de archivos | `cat archivo.txt` va a darte la visualización del contenido de ese archivo |
+| `mkdir`| Creación de carpetas |  `mkdir usuario` va a crear una carpeta con el nombre usuario |
+| `rm` | Borrar algun archivo | `rmdir`va a borrar un directorio |
+|`mv`| Mover archivo |`mv` más el directorio inicial y al que se desea mover va hacer el traspaso exitoso |

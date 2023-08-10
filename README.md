@@ -20,7 +20,7 @@ Bitácora de Comandos para SO
 |`exit` | Salir del root | `exit` si ya no se necesita el root |
 |`clear`| Borrar | `clear` cuando se quiere borrar todo de la terminal |
 |`more` | Mostrar el resultado de la ejecución de un comando en la terminal de a una página a la vez | `ps -ef more` La pantalla se llenará con una lista de datos, pero se detendrá al final de la página con el mensaje "more" |
-| `ps-aux`| Ver lista de procesos corriendo| `ps-aux`  mostrar información detallada sobre los procesos en ejecución en el sistema|
+| `ps`| Ver lista de procesos corriendo| `ps-aux`  mostrar información detallada sobre los procesos en ejecución en el sistema|
 | `chmod` | Cambia los permisos | `chmod` al usuarlo con un archivo o carpeta va a permitir cambiar los permisos |  
 | `echo` | Va a mostrar un mensaje o variable en la salida | `echo Hola Mundo` Mostrara el mensaje "Hola Mundo" |
 | `chown` | Cambiar propietarios | `chown` al usuarlo con un archivo o carpeta va a permitir cambiar el propietario |

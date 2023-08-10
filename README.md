@@ -24,5 +24,7 @@ Bitácora de Comandos para SO
 | `chmod` | Cambia los permisos | `chmod` al usuarlo con un archivo o carpeta va a permitir cambiar los permisos |  
 | `echo` | Va a mostrar un mensaje o variable en la salida | `echo Hola Mundo` Mostrara el mensaje "Hola Mundo" |
 | `chown` | Cambiar propietarios | `chown` al usuarlo con un archivo o carpeta va a permitir cambiar el propietario |
+| `useradd`| Agregar usuario | `useradd` cuando necesitamos un nuevo usuario |
+|`top` | Mostrar lista de procesos | `top` Se utiliza para monitorear en tiempo real la actividad del sistema, incluyendo la utilización de la CPU, la memoria y otros|
 
 

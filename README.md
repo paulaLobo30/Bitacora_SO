@@ -12,5 +12,11 @@ Bitácora de Comandos para SO
 |`man`| Muestra el manual de lo que necesites | `man ls` muestra el manual de la información de archivos |
 |`cd`| Elegir carpeta | `cd paula` va a elegir la carpeta con ese nombre |
 | `sudo apt install` | Comando para instalar | `sudo apt instal pyton` El comando dará los permisos e intalará la aplicación elegida|
+|`cp`| Copiar un archivo | `cp` junto el nombre del archivo y a la carpeta que desea copiarse haran exitosa la copia |
+|`whoami`| Saber usuario | `whoami` en el terminal te dirá en el usuario que estás |
+| `pwd` | Ubicacón carpeta | `pwd` con el nombre de la carpeta te dira donde está ubicado |
+| `su root` | Iniciar sesión en root | `su root` te inicia la sesión para tener todos los permisos |
+|`sudo passwd` | Cambio de contraseña | `sudo passwd` permite el cambio de contraseña al usuario de ser necesario |
+|`exit` | Salir del root | `exit` si ya no se necesita el root |
 
 

@@ -19,4 +19,4 @@ Bitácora de Comandos para SO
 |`sudo passwd` | Cambio de contraseña | `sudo passwd` permite el cambio de contraseña al usuario de ser necesario |
 |`exit` | Salir del root | `exit` si ya no se necesita el root |
 |`clear`| Borrar | `clear` cuando se quiere borrar todo de la terminal |
-|`more` | Mostrar el resultado de la ejecución de un comando en la terminal de a una página a la vez | `ps -ef | more` La pantalla se llenará con una lista de datos, pero se detendrá al final de la página con el mensaje "more"
+|`more` | Mostrar el resultado de la ejecución de un comando en la terminal de a una página a la vez | `ps -ef more` La pantalla se llenará con una lista de datos, pero se detendrá al final de la página con el mensaje "more"

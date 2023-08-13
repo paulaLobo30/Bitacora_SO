@@ -32,6 +32,8 @@ Bitácora de Comandos para SO
 |`history`| Historial | `history` al usarlo va a mostrar el historial de comandos usados |
 | `apt`| Gestiona paquetes | `sudo apt update` va a actualizar los paquetes |
 | `du` | Muestra el espacio utilizado por archivos y directorios | `du -h archivo.txt` va a mostrar el espacio  utilizado en el archivo |
+| `wget` | Descarga archivos desde la web | `wget https://paula.com/archivo.txt` va descargar eñ archivo que se pidió |
+| `zip` | Crea archivos ZIP | ` zip archivo.zip archivo.txt` el archivo seleccionado se volvera en ZIP |
 
 
 

@@ -26,4 +26,8 @@ Bitácora de Comandos para SO
 | `chown` | Cambiar propietarios | `chown` al usuarlo con un archivo o carpeta va a permitir cambiar el propietario |
 | `useradd`| Agregar usuario | `useradd` cuando necesitamos un nuevo usuario |
 |`top` | Mostrar lista de procesos | `top` Se utiliza para monitorear en tiempo real la actividad del sistema, incluyendo la utilización de la CPU, la memoria y otros |
+|`reboot`| Reiniciar | `sudo reboot` va a reiniciar el sistema |
+| `date` | Fecha y hora | `date` va a motrar la fecha y hora actual del sistema |
+|`history`| Historial | `history` al usarlo va a mostrar el historial de comandos usados |
+
 

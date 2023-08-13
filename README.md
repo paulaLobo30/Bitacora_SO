@@ -52,4 +52,4 @@ Bitácora de Comandos para SO
 |`grep`| Busca patrones en archivos de texto| `grep "buscar_texto" archivo.txt` busca "buscar_texto" en "archivo.txt"|
 |`rsync`| Sincroniza archivos y directorios localmente o entre servidores|`rsync -av carpeta/ servidor:/ruta/destino` sincroniza una carpeta con un servidor remoto|
 | `scp` |Copia archivos de/a un servidor remoto| `scp archivo.txt usuario@servidor:/ruta/destino` copia "archivo.txt" al servidor remoto|
-
+|`lsof` | Muestra los archivos abiertos por procesos|`lsof -i :80` muestra procesos que escuchan en el puerto 80|

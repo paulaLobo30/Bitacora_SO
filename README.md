@@ -42,7 +42,10 @@ Bitácora de Comandos para SO
 | `killall` | Finaliza procesos por nombre | `killall nombre_proceso` finaliza todos los procesos con el nombre especificado |
 |`at` | Ejecuta comandos en un momento específico en el futuro | `at now + 1 hour` programará un comando para ejecutarse en una hora|
 | `watch`| Ejecuta un comando repetidamente y muestra la salida en tiempo real | `watch -n 1 df -h` Ejecuta repetidamente el comando df -h cada segundo y muestra la salida en tiempo real|
-
-
+|`find` |Busca archivos y directorios en función de varios criterios | `find /ruta -name "patrón"` Busca archivos y directorios en la "ruta" especificada que coincidan con el "patrón" de nombre|
+|`visudo` |Edita el archivo sudoers para configurar el acceso sudo | `sudo visudo` Abre el archivo sudoers para editar los permisos de sudo de manera segura|
+|`shutdown` |Apaga o reinicia el sistema|`sudo shutdown -h now` apaga el sistema de inmediato|
+|`sed` |Editor de flujo para transformar textos| `sed 's/antiguo/nuevo/g' archivo.txt` reemplaza "antiguo" con "nuevo" en "archivo.txt"|
+|`iwconfig` |Muestra la configuración de redes inalámbricas | `iwconfig wlan0` muestra la configuración de la interfaz inalámbrica wlan0|
 
 

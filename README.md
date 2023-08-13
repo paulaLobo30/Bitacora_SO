@@ -39,7 +39,9 @@ Bitácora de Comandos para SO
 | `df` | Muestra el espacio en disco utilizado y disponible| `df -h` va a mostrarel espacio en disco utilizado y disponible |
 |`curl` | Obtiene datos desde URLs | `curl https://ejemplo.com` Obtiene y muestra el contenido de la URL|
 |`tar` | Comprime y descomprime archivos y directorios | `tar -cvzf archivo.tar.gz carpeta` Creará un archivo comprimido tar.gz de la carpeta |
-
+| `killall` | Finaliza procesos por nombre | `killall nombre_proceso` finaliza todos los procesos con el nombre especificado |
+|`at` | Ejecuta comandos en un momento específico en el futuro | `at now + 1 hour` programará un comando para ejecutarse en una hora|
+| `watch`| Ejecuta un comando repetidamente y muestra la salida en tiempo real | `watch -n 1 df -h` Ejecuta repetidamente el comando df -h cada segundo y muestra la salida en tiempo real|
 
 
 

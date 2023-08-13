@@ -47,5 +47,9 @@ Bitácora de Comandos para SO
 |`shutdown` |Apaga o reinicia el sistema|`sudo shutdown -h now` apaga el sistema de inmediato|
 |`sed` |Editor de flujo para transformar textos| `sed 's/antiguo/nuevo/g' archivo.txt` reemplaza "antiguo" con "nuevo" en "archivo.txt"|
 |`iwconfig` |Muestra la configuración de redes inalámbricas | `iwconfig wlan0` muestra la configuración de la interfaz inalámbrica wlan0|
-
+|`awk` | Procesa y transforma datos de texto|`awk {'print $1}' archivo.txt` imprime la primera columna del archivo|
+| `sudo pacman -Sy` | Actualiza la lista de paquetes disponibles en los repositorios| `sudo pacman -Sy` se conectará a los repositorios y actualizará la lista de paquetes disponibles |
+|`grep`| Busca patrones en archivos de texto| `grep "buscar_texto" archivo.txt` busca "buscar_texto" en "archivo.txt"|
+|`rsync`| Sincroniza archivos y directorios localmente o entre servidores|`rsync -av carpeta/ servidor:/ruta/destino` sincroniza una carpeta con un servidor remoto|
+| `scp` |Copia archivos de/a un servidor remoto| `scp archivo.txt usuario@servidor:/ruta/destino` copia "archivo.txt" al servidor remoto|
 

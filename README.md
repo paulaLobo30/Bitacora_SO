@@ -34,6 +34,11 @@ Bitácora de Comandos para SO
 | `du` | Muestra el espacio utilizado por archivos y directorios | `du -h archivo.txt` va a mostrar el espacio  utilizado en el archivo |
 | `wget` | Descarga archivos desde la web | `wget https://paula.com/archivo.txt` va descargar eñ archivo que se pidió |
 | `zip` | Crea archivos ZIP | ` zip archivo.zip archivo.txt` el archivo seleccionado se volvera en ZIP |
+| `unzip`| Descomprime archivos ZIP | `unzip archivo.zip` va a descomprimir todo lo que haya en el archivo seleccionado |
+| `ping` | Envía paquetes ICMP a una dirección para comprobar conectividad | `ping google.com` Va enviar paquetes ICMP a "google.com" para verificar la conectividad |
+| `df` | Muestra el espacio en disco utilizado y disponible| `df -h` va a mostrarel espacio en disco utilizado y disponible |
+|`curl` | Obtiene datos desde URLs | `curl https://ejemplo.com` Obtiene y muestra el contenido de la URL|
+|`tar` | Comprime y descomprime archivos y directorios | `tar -cvzf archivo.tar.gz carpeta` Creará un archivo comprimido tar.gz de la carpeta |
 
 
 
